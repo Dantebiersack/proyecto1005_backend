@@ -1,0 +1,6 @@
+@nearbizbackend_HostAddress = http://localhost:5128
+
+GET {{nearbizbackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
