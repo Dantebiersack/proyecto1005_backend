@@ -12,8 +12,8 @@ using nearbizbackend.Data;
 namespace nearbizbackend.Migrations
 {
     [DbContext(typeof(NearBizDbContext))]
-    [Migration("20251022231216_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20251102162840_InitalCreate")]
+    partial class InitalCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
